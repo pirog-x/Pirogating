@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pirogating
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in java programming
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on pentagon
 - 📫 Pentagon contact me ;)
 
