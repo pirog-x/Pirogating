@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vitalik</h1>
-<h3 align="center">👨‍💻Java Junior Developer from Ukraine🇺🇦</h3> 
+<h3 align="center">👨‍💻Java Engineer from Ukraine🇺🇦</h3> 
 
 - 🔭 I’m currently working on [**Telegram bot**](#)
 - 📈 Do [**leetcode**](leetcode.com/pirog-x) everyday
