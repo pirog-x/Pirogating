@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻Java Engineer from Ukraine🇺🇦</h3> 
 
 - 🔭 I’m currently working on [**Telegram bot**](#)
-- 📈 Do [**leetcode**](leetcode.com/pirog-x) everyday
+- 📈 Do [**leetcode**](https://leetcode.com/pirog-x) everyday
 - 👯 I’m looking to collaborate on [**Google**](https://google.com/) 
 - 📫 How to reach me **vitalikvlasenko88@gmail.com** 
 
