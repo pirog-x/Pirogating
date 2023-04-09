@@ -65,7 +65,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/145px-Openlogo-debianV2.svg.png" alt="debian" width="40" height="40" />
     </a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" alt="archlinux" width="40" height="40" />
+        <img src="https://cdn.iconscout.com/icon/free/png-512/archlinux-3521282-2944701.png?f=avif&w=1024" alt="archlinux" width="40" height="40" />
     </a>
 </p>
 
