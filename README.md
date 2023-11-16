@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vitalik</h1>
+<h1 align="center">Hi, I'm Vitalii</h1>
 <h3 align="center">👨‍💻Java Engineer from Ukraine🇺🇦</h3> 
 
 - 🔭 I’m currently working on [**Telegram bot**](#)
